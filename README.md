@@ -20,12 +20,14 @@ Predict house prices using machine learning techniques, including data preproces
 Ensure dependencies are installed before running the model:
 ```bash
 pip install -r requirements.txt
+````
 
 ## ▶️ Usage  
 Clone the repository:  
 ```bash
 git clone https://github.com/Anbu1921/HousePricePredictor.git
 cd house_price_prediction
+````
 
 ## 📊 Results  
 The model predicts house prices with high accuracy, leveraging preprocessing and hyperparameter tuning.  
